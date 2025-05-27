@@ -4,6 +4,8 @@
 
 #CreateTask (2).py: This code was my Create Task for AP Comp Sci Principles. It helps recommend a college Major based on Salry, unemployment rate, and Category.
 
+#Magin8Ball (2).py: This code is a magic 8 ball and you can enter a questions and it gives you a random response.
+
 #NumGueser.py :This code is for a number guessing game that has 3 different difficulties and gives you 3 guesses or else you lose.
 
 #multipleicationQuiz (1).py :This code is to generate multipliation questions and has 3 different levels easy.medium,hard. You can chooses how many questions
