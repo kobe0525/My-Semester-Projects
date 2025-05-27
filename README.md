@@ -13,3 +13,5 @@
 #pokemon.py :This code is for a pokemon game where you can train your pokemon , do gym battles, and rest your pokemon. You level up your pokemon and it can evolve 
 
 #projecy.py :this code will ask you 3 questions and decides what superhero you are.
+
+word_Count (2).py: This code counts the amount of words in a sentence,phrase, or passage and rerurns the number.
